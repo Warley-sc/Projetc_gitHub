@@ -11,4 +11,7 @@ Arquivo 4: Criação de um programa que recebe 2 valores, sendo eles: Nota e Nom
 
 Arquivo 5: Criação de um arquivo que gera aleatoriamente 6 numeros, esses numeros são baseados na loteria, então é de 1 ate 60.
 
-Arquivo 6: desenvolvimento de arrays colocado um array no metado push de objetos
+Arquivo 6: desenvolvimento de arrays colocado um array no metado push de objetos.
+
+
+Arquivo 7: criação de 2 arquivos e pastas, com a finalidade de pegar 2 numeros e somarem entre si.
