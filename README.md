@@ -15,3 +15,5 @@ Arquivo 6: desenvolvimento de arrays colocado um array no metado push de objetos
 
 
 Arquivo 7: criação de 2 arquivos e pastas, com a finalidade de pegar 2 numeros e somarem entre si.
+
+Arquivo 8 : criação de um arquivo que faz uma referência as notações de Bio O
